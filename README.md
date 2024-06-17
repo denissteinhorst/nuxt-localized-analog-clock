@@ -9,7 +9,7 @@ And this is what this repo is about! 😅
 
 ## Features
 - Analog Clock
-- Localized Time (Bocholt, Sydney, New York)
+- Localized Time (Duisburg, Sydney, New York)
 - 12h and 24h format (switchable)
 
 ## Technologies
